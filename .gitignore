@@ -1,0 +1,8 @@
+*.pdf
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+**/Debug/
+**/packages/
+**.vs/
